@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772738666723",
+    "firebase_url": "https://medipro-1046c.firebaseio.com",
+    "project_id": "medipro-1046c",
+    "storage_bucket": "medipro-1046c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772738666723:android:5aba9f1eaa0442a7",
+        "android_client_info": {
+          "package_name": "com.example.medipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772738666723-8nls1s7kul9v6e6urnnoccu88ooq4u4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medipro",
+            "certificate_hash": "67d1b6fa5fac7a4de0ae93b58ec65ed885163a2e"
+          }
+        },
+        {
+          "client_id": "772738666723-vpoi36gtk4fhuh6lbrtohbvqgcur7kpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkViX1Pk2L1_TzUh11jwK5d8T8a3cCq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772738666723-vpoi36gtk4fhuh6lbrtohbvqgcur7kpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
